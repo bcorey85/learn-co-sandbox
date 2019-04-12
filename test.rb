@@ -1,0 +1,6 @@
+def say_anything_x_times(phrase = "waffles", x)
+  x.times do
+    puts phrase
+  end
+end
+
